@@ -1,0 +1,26 @@
+﻿Baseline Sequencing
+
+The purpose of baseline sequencing was to establish a routine inside the Safehouse. 
+
+For example, when you get home from work, it may be dark. When you unlock your door, you drop your keys in the same place and turn on the lights. You walk straight to your bedroom and kick off your shoes and change into your jammies. Routine. 
+
+However, what if someone else was in your home while you were away?
+
+This particular sequencing was performed numerous times to establish a baseline data that would be recorded in ElasticSearch. The ElasticSearch counterpart, Kibana, is the visual component that disseminates the data into a readable format. 
+
+The baseline sequencing used for the exercise was in this order:
+
+Motion Sensor Camera
+[Trigger Sensor]
+
+[Person Detection]
+
+Amazon Alexa
+“Alexa, Trigger on the light”
+
+Motion Sensor Light
+[Trigger Sensor]
+
+Motion Sensor 
+[Trigger Sensor]
+
