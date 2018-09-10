@@ -4,3 +4,87 @@
 [submodule "safehouse-scada"]
 	path = safehouse-scada
 	url = https://github.com/sofwerx/safehouse-scada
+[submodule "safehouse"]
+	path = safehouse
+	url = https://github.com/sofwerx/safehouse
+[submodule "safehouse-algorithm"]
+	path = safehouse-algorithm
+	url = https://github.com/sofwerx/safehouse-algorithm
+[submodule "safehouse-data"]
+	path = safehouse-data
+	url = https://github.com/sofwerx/safehouse-data
+[submodule "safehouse-data-transformations"]
+	path = safehouse-data-transformations
+	url = https://github.com/sofwerx/safehouse-data-transformations
+[submodule "safehouse-elasticsearch-queries"]
+	path = safehouse-elasticsearch-queries
+	url = https://github.com/sofwerx/safehouse-elasticsearch-queries
+[submodule "android-tensorflow-gun-classification"]
+	path = android-tensorflow-gun-classification
+	url = https://github.com/sofwerx/android-tensorflow-gun-classification
+[submodule "android-tensorflow-object-detection"]
+	path = android-tensorflow-object-detection
+	url = https://github.com/sofwerx/android-tensorflow-object-detection
+[submodule "gun-detect"]
+	path = gun-detect
+	url = https://github.com/sofwerx/gun-detect
+[submodule "gun-detection"]
+	path = gun-detection
+	url = https://github.com/sofwerx/gun-detection
+[submodule "cybercity"]
+	path = cybercity
+	url = https://github.com/sofwerx/cybercity
+[submodule "pistol-detection"]
+	path = pistol-detection
+	url = https://github.com/sofwerx/pistol-detection
+[submodule "tensorflow-object-detection-docker"]
+	path = tensorflow-object-detection-docker
+	url = https://github.com/sofwerx/tensorflow-object-detection-docker
+[submodule "tensorflow-person-detection"]
+	path = tensorflow-person-detection
+	url = https://github.com/sofwerx/tensorflow-person-detection
+[submodule "tensorflow-gun-detection"]
+	path = tensorflow-gun-detection
+	url = https://github.com/sofwerx/tensorflow-gun-detection
+[submodule "docker-tello-facetrack"]
+	path = docker-tello-facetrack
+	url = https://github.com/sofwerx/docker-tello-facetrack
+[submodule "object-recognition-detection"]
+	path = object-recognition-detection
+	url = https://github.com/sofwerx/object-recognition-detection
+[submodule "android-apache-spot"]
+	path = android-apache-spot
+	url = https://github.com/sofwerx/android-apache-spot
+[submodule "docker-spot"]
+	path = docker-spot
+	url = https://github.com/sofwerx/docker-spot
+[submodule "docker-maplab"]
+	path = docker-maplab
+	url = https://github.com/sofwerx/docker-maplab
+[submodule "docker-domoticz"]
+	path = docker-domoticz
+	url = https://github.com/sofwerx/docker-domoticz
+[submodule "es-gammarf"]
+	path = es-gammarf
+	url = https://github.com/sofwerx/es-gammarf
+[submodule "es-tshark"]
+	path = es-tshark
+	url = https://github.com/sofwerx/es-tshark
+[submodule "es-json"]
+	path = es-json
+	url = https://github.com/sofwerx/es-json
+[submodule "es-domoticz-notify"]
+	path = es-domoticz-notify
+	url = https://github.com/sofwerx/es-domoticz-notify
+[submodule "es-ifttt"]
+	path = es-ifttt
+	url = https://github.com/sofwerx/es-ifttt
+[submodule "es-sync"]
+	path = es-sync
+	url = https://github.com/sofwerx/es-sync
+[submodule "mad-jacks-p2-transfer-learning"]
+	path = mad-jacks-p2-transfer-learning
+	url = https://github.com/sofwerx/mad-jacks-p2-transfer-learning
+[submodule "assault-rifle-detection"]
+	path = assault-rifle-detection
+	url = https://github.com/sofwerx/assault-rifle-detection
