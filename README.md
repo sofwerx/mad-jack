@@ -8,3 +8,15 @@ In planning this project, we used a number of readily-available devices from man
 
 The physical scenario of the exercise was built around the concept of war games. With war games, there are always biases on each side of the battle; however, what insights, information, and questions arise before, during and after an operation? These questions could not be addressed until the Mad Jack’s Range began research in January 2018.
 
+# Phase 1: Safehouse
+
+The first phase was a physical structure populated with IoT devices and typical network infrastructure to be used for cyber attack and defense.
+
+# Phase 2: Cyber Range
+
+The second phase expanded the scope beyond the Safehouse structure to encompass the entire Sofwerx building, with the primary deliverable as a video showing active attacker scenarios and mitigation.
+
+# Wiki
+
+Please check out the [wiki](https://github.com/sofwerx/mad-jack/wiki) for the documentation of the efforts.
+
