@@ -5,4 +5,4 @@ All stations should be evenly spread out across the whole area that will be moni
 
 A station example shown here, shows all the hardware components needed for the monitoring of RF within the given vicinity. Excluding a power source, the computing device has two SDR's attached using varying types of antennas specific toward the observed RF.
 
-![](https://github.com/peteIS/mad-jack/blob/master/big-data.JPG?raw=true)
+![](big-data.JPG)

@@ -3,4 +3,4 @@ After setup of the all the initial components defining a organized location to s
 
 With Docker configured, going within the directory of the cloned repository for the ElasticSeach build and executing `docker-compose up` in terminal. To test you can check the following [link](http://localhost:5601/app/kibana#/home?_g=()) for activity. To establish the input link to attach to the connector module in GammaRF you need the Local IP of the device hosting the database within the monitored network, followed by the index you wish the data to be labeled under and the subindex (Example `http://192.168.0.129:9200/gammarf/asdf`).
 
-![](https://github.com/peteIS/mad-jack/blob/master/Database.png?raw=true)
+![](Database.png)

@@ -3,4 +3,4 @@ After all hardware and software is properly configured, initialization of each n
 
 To begin capturing data and viewing all the inputs captures you may resort to the `run` command with the included module, for monitoring wide spectrum `scanner` or `single` for a single frequency like Z-Wave, finally a digit to define which device it will run on. For a wide spectrum of frequencies you will need add each frequency separately. Through using the `interesting_add [Frequency in Hz]`, a frequency is designated to the list of what is watch and recorded. Setting the right parameter in the Single module is important, with it being low, allows for interference to be passed trough the filter, on the other hand a higher parameter will result in not registering all the data hits. Finally seeing what will is captured and listed in the GammaRF interface is important to verify data input in ElasticSearch. This is done through the `settings` input.
 
-![](https://github.com/peteIS/mad-jack/blob/master/Operation.png?raw=true)
+![](Operation.png)

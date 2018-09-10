@@ -7,4 +7,4 @@ HackRF setup is summarized with the following commands listed in the [Github](ht
 
 Testing the HackRF connection, once the installation is complete, can be done through the following command in terminal: `hackrf_info`
 
-![](https://github.com/peteIS/mad-jack/blob/master/HackRF.jpg?raw=true)
+![](HackRF.jpg)

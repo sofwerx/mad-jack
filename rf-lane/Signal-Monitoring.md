@@ -5,4 +5,4 @@ The protocol, or way of communication between different devices, is the one of t
 
 Knowing the devices actively interfering/being monitored with the frequency watched helps understand where exactly and how much activity there actually is present. Through analyzing signal strength of specific devices, if stationary, they can be easily identified as a characteristic of that device. This overall will help properly organize and the infrastructure, mapping of the devices and the node that will monitor them, and identify the parameters which would separate attacks from your device communicating.
 
-![](https://github.com/peteIS/mad-jack/blob/master/Zwave%20Sensor.jpg?raw=true)
+![](Zwave%20Sensor.jpg)
