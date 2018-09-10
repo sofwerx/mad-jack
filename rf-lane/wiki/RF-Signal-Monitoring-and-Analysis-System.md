@@ -1,0 +1,3 @@
+# RF Signal Monitoring and Analysis System
+
+The following project discusses a method of identifying, gathering, and organizing Radio Frequency (RF) signal data with the help Open of Source Software(OSS). Through configuring and using Software Defined Radios (SDR), a wide RF spectrum can be accessed and analized. Combining this with the programs which can store and identify patterns in the signal gathered in term adds a new layer of monitoring and security to vital part of modern network infrastructure. Consequently, this system would make direct types of RF attacks, like jamming or replay, become easily identifyable and provide better defense to one's network.
