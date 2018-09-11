@@ -91,3 +91,6 @@
 [submodule "althea-firmware"]
 	path = althea-firmware
 	url = https://github.com/sofwerx/althea-firmware
+[submodule "docker-aletheios-cicd"]
+	path = docker-aletheios-cicd
+	url = https://github.com/sofwerx/docker-aletheios-cicd
