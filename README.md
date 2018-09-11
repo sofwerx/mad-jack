@@ -32,6 +32,9 @@ Please check out the [wiki](https://github.com/sofwerx/mad-jack/wiki) for the do
 
 # Projects
 
+- [althea-firmware](althea-firmware) - Althea - Blockchain Incentivized wifi mesh firmware based on OpenWRT
+- [docker-aletheios-cicd](docker-aletheios-cicd) - Aletheios ROM builder - a LineageOS ROM for Android Pixel2XL phones
+- 
 - [android-apache-spot](android-apache-spot) - How to run Apache SPOT on an Android phone with TermUX
 - [android-tensorflow-gun-classification](android-tensorflow-gun-classification) - Mobile app for image recognition (related to Mad Jack’s)
 - [android-tensorflow-object-detection](android-tensorflow-object-detection) - Mobile app for object detection (related to Mad Jack’s)

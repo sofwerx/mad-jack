@@ -88,3 +88,6 @@
 [submodule "assault-rifle-detection"]
 	path = assault-rifle-detection
 	url = https://github.com/sofwerx/assault-rifle-detection
+[submodule "althea-firmware"]
+	path = althea-firmware
+	url = https://github.com/sofwerx/althea-firmware
