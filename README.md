@@ -32,37 +32,36 @@ Please check out the [wiki](https://github.com/sofwerx/mad-jack/wiki) for the do
 
 # Projects
 
-- [althea-firmware](althea-firmware) - Althea - Blockchain Incentivized wifi mesh firmware based on OpenWRT
-- [docker-aletheios-cicd](docker-aletheios-cicd) - Aletheios ROM builder - a LineageOS ROM for Android Pixel2XL phones
+- [althea-firmware](https://github.com/sofwerx/althea-firmware) - Althea - Blockchain Incentivized wifi mesh firmware based on OpenWRT
+- [docker-aletheios-cicd](https://github.com/sofwerx/docker-aletheios-cicd) - Aletheios ROM builder - a LineageOS ROM for Android Pixel2XL phones
 - 
-- [android-apache-spot](android-apache-spot) - How to run Apache SPOT on an Android phone with TermUX
-- [android-tensorflow-gun-classification](android-tensorflow-gun-classification) - Mobile app for image recognition (related to Mad Jack’s)
-- [android-tensorflow-object-detection](android-tensorflow-object-detection) - Mobile app for object detection (related to Mad Jack’s)
-- [assault-rifle-detection](assault-rifle-detection) - For video Act I, gun detection software
-- [cybercity](cybercity) - Cybercity project in partnership with Cyber Florida
-- [docker-domoticz](docker-domoticz) - Dockerized Domoticz IoT home automation service
-- [docker-maplab](docker-maplab) - Dockerized MapLab (ROS based drone flying engine)
-- [docker-spot](docker-spot) - Dockerized Apache SPOT packet capture and machine learning IDS service
-- [docker-tello-facetrack](docker-tello-facetrack) - Automatically flies a tello drone remotely without human intervention, following a face.
-- [es-domoticz-notify](es-domoticz-notify) - ElasticSearch bridge for domoticz notify POSTs
-- [es-gammarf](es-gammarf) - ElasticSearch bridge for gammarf posts
-- [es-ifttt](es-ifttt) - ElasticSearch bridge for IFTTT webhook POSTs
-- [es-json](es-json) - ElasticSearch bridge for generic HTTP JSON POSTs
-- [es-sync](es-sync) - ElasticSearch synchronization service
-- [es-tshark](es-tshark) - ElasticSearch bridge for tshark pcap capturing
-- [gun-detect](gun-detect) - For video Act I and II, SOFWERX building camera gun detection
-- [gun-detection](gun-detection) - Part of the Smart Safe House
-- [mad-jacks-p2-transfer-learning](mad-jacks-p2-transfer-learning) - For video Act III, the algorithm used for a drone to identify a target
-- [object-recognition-detection](object-recognition-detection) - Algorithm for identifying objects at far distance
-- [pistol-detection](pistol-detection) - For video Act II, used for Gimble to identify face of target	
-- [safehouse](safehouse) - Cesium.js based SafeHouse model with ElasticSearch animated elements
-- [safehouse-algorithm](safehouse-algorithm) - Used to identify if the adversary was conducting attack behavior to the safehouse. 
-- [safehouse-data](safehouse-data) - Data acquired during Mad Jack’s Safehouse
-- [safehouse-data-transformations](safehouse-data-transformations) - Data wrangling process for the Safehouse operation
-- [safehouse-elasticsearch-queries](safehouse-elasticsearch-queries) - Data queries for the Safehouse operation
-- [safehouse-scada](safehouse-scada) - Documentation of the SCADA Lane for the Safehouse project at SOFWERX.
-- [tensorflow-gun-detection](tensorflow-gun-detection) - For the Safehouse, gun detection software for Nerf gun system
-- [tensorflow-object-detection-docker](tensorflow-object-detection-docker) - Reproducible environment for object detection development environment
-- [tensorflow-person-detection](tensorflow-person-detection) - For the Safehouse, identifying a person at the front door
-
+- [android-apache-spot](https://github.com/sofwerx/android-apache-spot) - How to run Apache SPOT on an Android phone with TermUX
+- [android-tensorflow-gun-classification](https://github.com/sofwerx/android-tensorflow-gun-classification) - Mobile app for image recognition (related to Mad Jack’s)
+- [android-tensorflow-object-detection](https://github.com/sofwerx/android-tensorflow-object-detection) - Mobile app for object detection (related to Mad Jack’s)
+- [assault-rifle-detection](https://github.com/sofwerx/assault-rifle-detection) - For video Act I, gun detection software
+- [cybercity](https://github.com/sofwerx/cybercity) - Cybercity project in partnership with Cyber Florida
+- [docker-domoticz](https://github.com/sofwerx/docker-domoticz) - Dockerized Domoticz IoT home automation service
+- [docker-maplab](https://github.com/sofwerx/docker-maplab) - Dockerized MapLab (ROS based drone flying engine)
+- [docker-spot](https://github.com/sofwerx/docker-spot) - Dockerized Apache SPOT packet capture and machine learning IDS service
+- [docker-tello-facetrack](https://github.com/sofwerx/docker-tello-facetrack) - Automatically flies a tello drone remotely without human intervention, following a face.
+- [es-domoticz-notify](https://github.com/sofwerx/es-domoticz-notify) - ElasticSearch bridge for domoticz notify POSTs
+- [es-gammarf](https://github.com/sofwerx/es-gammarf) - ElasticSearch bridge for gammarf posts
+- [es-ifttt](https://github.com/sofwerx/es-ifttt) - ElasticSearch bridge for IFTTT webhook POSTs
+- [es-json](https://github.com/sofwerx/es-json) - ElasticSearch bridge for generic HTTP JSON POSTs
+- [es-sync](https://github.com/sofwerx/es-sync) - ElasticSearch synchronization service
+- [es-tshark](https://github.com/sofwerx/es-tshark) - ElasticSearch bridge for tshark pcap capturing
+- [gun-detect](https://github.com/sofwerx/gun-detect) - For video Act I and II, SOFWERX building camera gun detection
+- [gun-detection](https://github.com/sofwerx/gun-detection) - Part of the Smart Safe House
+- [mad-jacks-p2-transfer-learning](https://github.com/sofwerx/mad-jacks-p2-transfer-learning) - For video Act III, the algorithm used for a drone to identify a target
+- [object-recognition-detection](https://github.com/sofwerx/object-recognition-detection) - Algorithm for identifying objects at far distance
+- [pistol-detection](https://github.com/sofwerx/pistol-detection) - For video Act II, used for Gimble to identify face of target	
+- [safehouse](https://github.com/sofwerx/safehouse) - Cesium.js based SafeHouse model with ElasticSearch animated elements
+- [safehouse-algorithm](https://github.com/sofwerx/safehouse-algorithm) - Used to identify if the adversary was conducting attack behavior to the safehouse. 
+- [safehouse-data](https://github.com/sofwerx/safehouse-data) - Data acquired during Mad Jack’s Safehouse
+- [safehouse-data-transformations](https://github.com/sofwerx/safehouse-data-transformations) - Data wrangling process for the Safehouse operation
+- [safehouse-elasticsearch-queries](https://github.com/sofwerx/safehouse-elasticsearch-queries) - Data queries for the Safehouse operation
+- [safehouse-scada](https://github.com/sofwerx/safehouse-scada) - Documentation of the SCADA Lane for the Safehouse project at SOFWERX.
+- [tensorflow-gun-detection](https://github.com/sofwerx/tensorflow-gun-detection) - For the Safehouse, gun detection software for Nerf gun system
+- [tensorflow-object-detection-docker](https://github.com/sofwerx/tensorflow-object-detection-docker) - Reproducible environment for object detection development environment
+- [tensorflow-person-detection](https://github.com/sofwerx/tensorflow-person-detection) - For the Safehouse, identifying a person at the front door
 
