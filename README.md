@@ -21,7 +21,7 @@ The second phase expanded the scope beyond the Safehouse structure to encompass 
 - [ISR Lane](isr-lane)
 - [RF Lane](rf-lane)
 - [Social Lane](social-lane)
-- [SCADA Lane](safehouse-scada)
+- [SCADA Lane](https://github.com/sofwerx/safehouse-scada)
 
 # Wiki
 
