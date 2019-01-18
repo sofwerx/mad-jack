@@ -4,7 +4,7 @@ These are the communication technologies used by the devices in the safe house.
 
 ![Wi-Fi Alliance Logo](https://www.wi-fi.org/sites/default/files/images/WFA_OnProduct_Flat_Web_LR.gif)
 
-Wi-fi is now a ubiquitous technology, and the most common standard used for IoT devices. Based on the IEEE 802.11 standtards, the technology communicates on either the 2.8GHz ultra high frequency band or the 5.8 GHz super high frequency band of the radio spectrum. It is used to wirelessly communicate on a LAN, and typically has a range of 32 meters.
+Wi-fi is now a ubiquitous technology, and the most common standard used for IoT devices. Based on the IEEE 802.11 standtards, the technology communicates on either the 2.4GHz ultra high frequency band or the 5.8 GHz super high frequency band of the radio spectrum. It is used to wirelessly communicate on a LAN, and typically has a range of 32 meters.
 
 ## Bluetooth
 
